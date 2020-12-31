@@ -5,5 +5,7 @@
 
 # Requiements django-taggit is installed in project 
  when you run this please install pip install taggit
+ 
+ 
 
 
